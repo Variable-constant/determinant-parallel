@@ -1,2 +1,3 @@
-# determinant-parallel
-task for computer architecture course
+# Определитель матрицы
+
+Параллельный алгоритм нахождения определителя матрицы с помощью библиотеки OpenMP. 
